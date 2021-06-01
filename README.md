@@ -1,9 +1,9 @@
 flask
 
-*사용법*
+# 사용법
 - 본인 가상환경의 darkflow 폴더에 flask.py파일을 넣고 flask 서버를 열어둔다.
 
-*로직*
+# 로직
 React_native -> Spring
 - React_native에서 reload 버튼을 누르면 이미지 detection을 Spring에 요청
 
