@@ -6,7 +6,7 @@
 
 [darkflow 참고](https://junyoung-jamong.github.io/deep/learning/2019/01/22/Darkflow%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-YOLO%EB%AA%A8%EB%8D%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%94%ED%85%8D%EC%85%98-%EA%B5%AC%ED%98%84-in-windows.html)
 
-# 사용법
+# 실행
 - 본인 가상환경의 darkflow 폴더에 flask.py파일을 넣고 flask 서버를 열어둔다.
 - 웹 캠을 이용해 캡쳐한 이미지는 data - testset 폴더에 저장된다.
 
