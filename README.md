@@ -1,5 +1,11 @@
+# Darkflow
+- darkflow를 이용해 학습한 모델로 detection한다.
+- 현재 검출할 수 있는 재료는 egg, onion, orange, cabbage, cucumber이다.
+
+
 # 사용법
 - 본인 가상환경의 darkflow 폴더에 flask.py파일을 넣고 flask 서버를 열어둔다.
+- 웹 캠을 이용해 캡쳐한 이미지는 data - testset 폴더에 저장된다.
 
 # 로직
 ### React_native -> Spring
